@@ -2,7 +2,7 @@
 
 Welcome! I'm a student at **42 Heilbronn**, passionate about creating robust and efficient software solutions.
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### [MLink](https://github.com/mzahorui/MLink)
 SAP BTP application to request the documentation from external supplier via upload link. No account creation required, token verification.
@@ -28,7 +28,7 @@ A comprehensive system administration project focused on containerization and in
 ---
 
 ### [Ansible](https://github.com/mzahorui/ansiblePlaybook)
-Automation and configuration management project demonstrating infrastructure orchestration capabilities. Automate system configuration and deployment processes.
+Ansible Playbook to configure headless Debian-based VM to use as a development environment.
 
 **Skills:** Ansible, Configuration Management, Infrastructure Automation, YAML
 
