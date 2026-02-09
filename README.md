@@ -4,6 +4,22 @@ Welcome! I'm a student at **42 Heilbronn**, passionate about creating robust and
 
 ## 🚀 Featured Projects
 
+### [MLink](https://github.com/mzahorui/MLink)
+SAP BTP application to request the documentation from external supplier via upload link. No account creation required, token verification.
+Part of a SchwarzIT workshop.
+
+**Skills:** Full-Stack Development, SAP BTP, CAP, UI5, Node.js, Database Management
+
+---
+
+### [SAPxSIT](https://github.com/mzahorui/SAPxSIT)
+SAP BTP application to request the documentation from external supplier via upload link. No account creation required, token verification.
+Part of a SchwarzIT workshop.
+
+**Skills:** Full-Stack Development, SAP BTP, CAP, UI5, Node.js, Database Management
+
+---
+
 ### [Inception](https://github.com/mzahorui/Inception)
 A comprehensive system administration project focused on containerization and infrastructure management. Build and deploy a multi-container application infrastructure using Docker Compose.
 
@@ -11,24 +27,10 @@ A comprehensive system administration project focused on containerization and in
 
 ---
 
-### [Ansible](https://github.com/mzahorui/Ansible)
+### [Ansible](https://github.com/mzahorui/ansiblePlaybook)
 Automation and configuration management project demonstrating infrastructure orchestration capabilities. Automate system configuration and deployment processes.
 
-**Skills:** Ansible, Configuration Management, Infrastructure Automation, DevOps, YAML
-
----
-
-### [MLink](https://github.com/mzahorui/MLink)
-A modern networking and connection management application showcasing full-stack development capabilities.
-
-**Skills:** Full-Stack Development, Networking, API Design, Database Management
-
----
-
-### [SAPxSIT](https://github.com/mzahorui/SAPxSIT)
-Enterprise-level integration project bridging SAP systems with modern technologies, demonstrating business application development.
-
-**Skills:** SAP Integration, Enterprise Software, API Development, System Integration
+**Skills:** Ansible, Configuration Management, Infrastructure Automation, YAML
 
 ---
 
@@ -39,7 +41,7 @@ A 3D game engine inspired by Wolfenstein 3D, built from scratch using raycasting
 
 ---
 
-### [Minishell](https://github.com/mzahorui/Minishell)
+### [Minishell](https://github.com/foyez/minishell)
 A custom implementation of a Unix shell with command parsing, execution, and built-in commands. Handle pipes, redirections, and environment variables.
 
 **Skills:** C Programming, System Calls, Process Management, Unix/Linux, Parsing, Shell Scripting
