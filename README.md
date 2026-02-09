@@ -1,16 +1,73 @@
-## Hi there 👋
+# Software Developer
 
-<!--
-**mzahorui/mzahorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm a student at **42 Heilbronn**, passionate about creating robust and efficient software solutions.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Inception](https://github.com/mzahorui/Inception)
+A comprehensive system administration project focused on containerization and infrastructure management. Build and deploy a multi-container application infrastructure using Docker Compose.
+
+**Skills:** Docker, Docker Compose, System Administration, Networking, Security, Infrastructure as Code
+
+---
+
+### [Ansible](https://github.com/mzahorui/Ansible)
+Automation and configuration management project demonstrating infrastructure orchestration capabilities. Automate system configuration and deployment processes.
+
+**Skills:** Ansible, Configuration Management, Infrastructure Automation, DevOps, YAML
+
+---
+
+### [MLink](https://github.com/mzahorui/MLink)
+A modern networking and connection management application showcasing full-stack development capabilities.
+
+**Skills:** Full-Stack Development, Networking, API Design, Database Management
+
+---
+
+### [SAPxSIT](https://github.com/mzahorui/SAPxSIT)
+Enterprise-level integration project bridging SAP systems with modern technologies, demonstrating business application development.
+
+**Skills:** SAP Integration, Enterprise Software, API Development, System Integration
+
+---
+
+### [Cub3D](https://github.com/mzahorui/Cub3D)
+A 3D game engine inspired by Wolfenstein 3D, built from scratch using raycasting techniques. Navigate through a maze in a first-person perspective.
+
+**Skills:** C Programming, Graphics Programming, Raycasting, Algorithm Design, Game Development
+
+---
+
+### [Minishell](https://github.com/mzahorui/Minishell)
+A custom implementation of a Unix shell with command parsing, execution, and built-in commands. Handle pipes, redirections, and environment variables.
+
+**Skills:** C Programming, System Calls, Process Management, Unix/Linux, Parsing, Shell Scripting
+
+---
+
+### [Philosophers](https://github.com/mzahorui/Philosophers)
+A multithreading simulation solving the dining philosophers problem. Demonstrates synchronization, deadlock prevention, and resource management.
+
+**Skills:** C Programming, Multithreading, Mutex, Synchronization, Deadlock Prevention, Concurrent Programming
+
+---
+
+### [Minitalk](https://github.com/mzahorui/Minitalk)
+A client-server communication program using Unix signals for message transmission. Efficient bit-level data transfer protocol implementation.
+
+**Skills:** C Programming, Unix Signals, Inter-Process Communication (IPC), Binary Operations, Protocol Design
+
+---
+
+### [Pushswap](https://github.com/mzahorui/Pushswap)
+An efficient sorting algorithm project with a limited set of operations. Optimize sorting with minimal moves using two stacks.
+
+**Skills:** C Programming, Algorithm Design, Data Structures, Optimization, Problem Solving
+
+---
+
+### [Fractol](https://github.com/mzahorui/Fractol)
+A fractal visualization program rendering beautiful mathematical patterns like Mandelbrot and Julia sets with real-time zoom and navigation.
+
+**Skills:** C Programming, Graphics Programming, Mathematical Algorithms, Complex Numbers, Event Handling
